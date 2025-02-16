@@ -2,7 +2,7 @@
 // more info https://containers.dev/implementors/json_reference/
 {
     // configure image
-	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"image": "ghcr.io/codesandbox/devcontainers/universal:latest",
     // install dependencies from package.json
 	"onCreateCommand": "yarn install", 
 
